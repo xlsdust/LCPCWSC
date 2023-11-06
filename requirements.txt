@@ -1,2 +1,0 @@
-torch 1.2
-transformer 4.2.1
