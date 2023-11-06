@@ -1,8 +1,0 @@
-#**Code implementation for LCBWSC**
-
-
-#Run
-**conda environment ** conda env create -f LCBWSC.yaml
-
-
-**train** python main.py --mode train
