@@ -3,4 +3,5 @@ code for LCBWSC
 
 -run
 conda env create -f LCBWSC.yaml
+conda activate LCBWSC
 python main.py
