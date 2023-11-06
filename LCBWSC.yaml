@@ -1,4 +1,4 @@
-name: albert
+name: LCBWSC
 channels:
   - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
   - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main/
@@ -105,4 +105,4 @@ dependencies:
       - urllib3==1.26.16
       - werkzeug==2.2.3
       - zipp==3.15.0
-prefix: /public/home/zhangfeng/anaconda3/envs/albert
+prefix: /public/home/zhangfeng/anaconda3/envs/LCBWSC

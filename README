@@ -1,1 +1,6 @@
 code for LCBWSC
+
+
+-run
+conda env create -f LCBWSC.yaml
+python main.py
