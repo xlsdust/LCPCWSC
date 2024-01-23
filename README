@@ -1,5 +1,4 @@
-code for LCPCWSC 
-
+code for LCPCWSC: A Web Service Classification Approach Based on Label Confusion and Priori Correction
 
 -run
 conda env create -f LCBWSC.yaml
